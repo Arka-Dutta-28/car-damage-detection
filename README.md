@@ -3,6 +3,13 @@
 This app let's you drag and drop an image of a car and it will tell you what kind of damage it has.
 The model is trained on third quarter front and rare view hence the picture should capture the third quarter front or rare view of a car. 
 
+## Live Demo
+
+🔗 **Try it here**: [https://car-damage-detection-28.streamlit.app/](https://car-damage-detection-28.streamlit.app/)
+
+An interactive web interface where users can enter their information and instantly get a prediction about their car condition.
+
+
 ![app](app_screenshot.png)
 
 ### Model Details
